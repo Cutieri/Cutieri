@@ -1,82 +1,81 @@
-<h1 align="center">Guilherme Cutieri</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&lines=Oi,+meu+nome+é+Guilherme;Hello,+my+name+is+Guilherme;¡Hola,+me+llamo+Guilherme;Salut,+je+m'appelle+Guilherme;Ciao,+mi+chiamo+Guilherme" />
+</h1>
 
 <p align="center">
-💻 Apaixonado por dados, tecnologia e (muito) café ☕<br>
-📊 Me desenvolvendo na área de Dados<br>
-🎓 Prestes a iniciar meu MBA em Data Science & Advanced Analytics
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=50&fontAlignY=40" />
 </p>
+
+![Guilherme's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cutieri&theme=redical&area=true&hide_border=true&custom_title=Contribuições%20de%20Guilherme%20no%20GitHub)
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Analista/Dados em formação, com foco em projetos práticos.
+- 🚀 Apaixonado por transformar dados em decisões inteligentes.
+- 📚 Sempre aprendendo algo novo — atualmente focando em **Power BI, SQL e Python**.
+
+---
+
+## 🛠️ Tecnologias que uso no dia a dia
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermecutieri&label=Visualizações&color=0e75b6&style=flat" alt="guilhermecutieri" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" height="40" alt="Looker Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 📈 Estatísticas e contribuições
 
-Sou um profissional em formação na área de Dados, com muita vontade de aprender e crescer. Acabei de concluir minha graduação e estou focado no desenvolvimento de projetos práticos e estudos sólidos.
-
-Atualmente, estou me dedicando à formação da [Preditiva.ai](https://preditiva.ai/) e construindo meu portfólio com projetos em:
-
-- 📈 Análise de dados  
-- 🧹 ETL e limpeza de dados  
-- 📊 Dashboards interativos  
-- 📦 Modelagem e predição (em breve!)
-
----
-
----
-
-### 🛠️ Ferramentas e Tecnologias
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&icon_color=FF0000&title_color=FF0000&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&title_color=FF0000&text_color=ffffff" height="160"/>
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+## 🐍 Snake Game Contributions
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-cutieri-42003036b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E60023?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+![snake gif](https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg)
 
-  <a href="https://sites.google.com/view/guilherme-cutieri-portfolio/in%C3%ADcio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-E60023?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
-  </a>
+---
 
+## 📞 Onde me encontrar
+
+<p align="center">
   <a href="mailto:cutieriguilherme@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-E60023?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/gmail.png" height="30"/> <span style="color:white;">cutieriguilherme@gmail.com</span>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5511945192928" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-E60023?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/whatsapp.png" height="30"/> <span style="color:white;">+55 11 94519-2928</span>
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/linkedin.png" height="30"/> <span style="color:white;">LinkedIn</span>
   </a>
 </p>
 
+---
+
+📌 Esse repositório é meu cantinho de experimentos, estudos e projetos. Fique à vontade para explorar e dar feedbacks!
 
 ---
 
-### 📊 GitHub Stats
+### ❗ Como usar
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cutieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutieri&layout=compact&langs_count=7&theme=radical"/>
-</p>
+Substitua:
+- `SEU_USUARIO_GITHUB` com seu nome de usuário GitHub
+- `SEU-LINKEDIN` com a parte final do seu perfil no LinkedIn
 
----
+Se quiser, posso personalizar esse README com seu LinkedIn direto e gerar a imagem da *snake animation* pra você.
 
-### 🐍
-
-![snake gif](https://github.com/Cutieri/Cutieri/blob/output/github-contribution-grid-snake.svg)
-
-
-
----
-
-📌 _Esse repositório é meu cantinho de experiências, estudos e evolução no mundo dos dados. Fique à vontade para explorar e dar feedbacks!_
+Quer?
