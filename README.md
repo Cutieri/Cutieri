@@ -25,22 +25,40 @@ Atualmente, estou me dedicando à formação da [Preditiva.ai](https://preditiva
 
 ---
 
+---
+
 ### 🛠️ Ferramentas e Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-cutieri-42003036b/)
-- 📁 [Portfólio Visual](https://sites.google.com/view/guilherme-cutieri-portfolio/in%C3%ADcio)
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-cutieri-42003036b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E60023?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://sites.google.com/view/guilherme-cutieri-portfolio/in%C3%ADcio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-E60023?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+
+  <a href="mailto:cutieriguilherme@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-E60023?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://wa.me/5511945192928" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-E60023?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
 
 ---
 
