@@ -34,13 +34,13 @@
 ## 📈 Estatísticas e contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&icon_color=FF0000&title_color=FF0000&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&title_color=FF0000&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cutieri&show_icons=true&theme=radical&icon_color=FF0000&title_color=FF0000&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutieri&layout=compact&theme=radical&title_color=FF0000&text_color=ffffff" height="160"/>
 </p>
 
 ---
 
-## 🐍 Snake Game Contributions
+## 🐍
 
 ![snake gif](https://github.com/Cutieri/Cutieri/blob/output/github-contribution-grid-snake.svg)
 
