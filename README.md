@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Bem-vindo!;Welcome!;¡Bienvenido!;Bienvenue!;Willkommen!;Benvenuto!;ようこそ!;환영합니다!;Bem-vindo ao meu GitHub!;Eu sou o Guilherme ☕🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Bem-vindo!;Welcome!;¡Bienvenido!;Bienvenue!;Willkommen!;Benvenuto!;ようこそ!;환영합니다!;Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Guilherme+☕🚀" alt="Typing SVG" />
 </h1>
 
-![Guilherme's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cutieri&theme=redical&area=true&hide_border=true&custom_title=Contribuições%20de%20Guilherme%20no%20GitHub)
 
 ---
 
@@ -17,6 +16,18 @@
 📊 Me desenvolvendo na área de Dados<br>
 🎓 Prestes a iniciar meu MBA em Data Science & Advanced Analytics
 
+---
+
+### 🚀 Sobre mim
+
+Sou um profissional em formação na área de Dados, com muita vontade de aprender e crescer. Acabei de concluir minha graduação e estou focado no desenvolvimento de projetos práticos e estudos sólidos.
+
+Atualmente, estou me dedicando à formação da [Preditiva.ai](https://preditiva.ai/) e construindo meu portfólio com projetos em:
+
+- 📈 Análise de dados  
+- 🧹 ETL e limpeza de dados  
+- 📊 Dashboards interativos  
+- 📦 Modelagem e predição (em breve!)
 
 
 ---
@@ -33,6 +44,7 @@
 </p>
 
 ---
+
 
 
 <p align="center">
