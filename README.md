@@ -1,20 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&lines=Oi,+meu+nome+é+Guilherme;Hello,+my+name+is+Guilherme;¡Hola,+me+llamo+Guilherme;Salut,+je+m'appelle+Guilherme;Ciao,+mi+chiamo+Guilherme" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&fontColor=ffffff&fontSize=35&fontAlign=50&fontAlignY=40" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Bem-vindo!;Welcome!;¡Bienvenido!;Bienvenue!;Willkommen!;Benvenuto!;ようこそ!;환영합니다!;Bem-vindo ao meu GitHub!;Eu sou o Guilherme ☕🚀" alt="Typing SVG" />
+</h1>
 
 ![Guilherme's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cutieri&theme=redical&area=true&hide_border=true&custom_title=Contribuições%20de%20Guilherme%20no%20GitHub)
 
 ---
 
-## 👨‍💻 Sobre mim
+<h1 align="center">Guilherme Cutieri</h1>
 
-- 🎓 Analista/Dados em formação, com foco em projetos práticos.
-- 🚀 Apaixonado por transformar dados em decisões inteligentes.
-- 📚 Sempre aprendendo algo novo — atualmente focando em **Power BI, SQL e Python**.
+
+💻 Apaixonado por dados, tecnologia e (muito) café ☕<br>
+📊 Me desenvolvendo na área de Dados<br>
+🎓 Prestes a iniciar meu MBA em Data Science & Advanced Analytics
+
+
 
 ---
 
@@ -31,7 +34,6 @@
 
 ---
 
-## 📈 Estatísticas e contribuições
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cutieri&show_icons=true&theme=radical&icon_color=FF0000&title_color=FF0000&text_color=ffffff" height="160"/>
@@ -50,13 +52,13 @@
 
 <p align="center">
   <a href="mailto:cutieriguilherme@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/gmail.png" height="30"/> <span style="color:white;">cutieriguilherme@gmail.com</span>
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/gmail.png" height="30"/> <span style="color:white;"></span>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5511945192928" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/whatsapp.png" height="30"/> <span style="color:white;">+55 11 94519-2928</span>
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/whatsapp.png" height="30"/> <span style="color:white;"></span>
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/linkedin.png" height="30"/> <span style="color:white;">LinkedIn</span>
+  <a href="https://www.linkedin.com/in/guilherme-cutieri-42003036b/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/linkedin.png" height="30"/> <span style="color:white;"></span>
   </a>
 </p>
 
