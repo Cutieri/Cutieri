@@ -46,7 +46,7 @@
 
 ## 🐍 Snake Game Contributions
 
-![snake gif](https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cutieri/Cutieri/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -68,14 +68,3 @@
 
 📌 Esse repositório é meu cantinho de experimentos, estudos e projetos. Fique à vontade para explorar e dar feedbacks!
 
----
-
-### ❗ Como usar
-
-Substitua:
-- `SEU_USUARIO_GITHUB` com seu nome de usuário GitHub
-- `SEU-LINKEDIN` com a parte final do seu perfil no LinkedIn
-
-Se quiser, posso personalizar esse README com seu LinkedIn direto e gerar a imagem da *snake animation* pra você.
-
-Quer?
