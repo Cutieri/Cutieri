@@ -55,7 +55,7 @@ Atualmente, estou me dedicando à formação da [Preditiva.ai](https://preditiva
 
 ### 🐍
 
-![snake gif](https://github.com/guilhermecutieri/guilhermecutieri/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cutieri/Cutieri/blob/output/github-contribution-grid-snake.svg)
 
 
 
