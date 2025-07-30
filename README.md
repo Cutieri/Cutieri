@@ -62,6 +62,8 @@ Atualmente, estou me dedicando à formação da [Preditiva.ai](https://preditiva
 
 ### Portfólio Visual 🔍
 
+Aqui irei deixar mais a parte Visual dos meus projetos, contendo dashboards, insights, descrição e etc sobre cada analise! 
+
   <a href="https://sites.google.com/view/guilherme-cutieri-portfolio/in%C3%ADcio" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-E60023?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
   </a>
